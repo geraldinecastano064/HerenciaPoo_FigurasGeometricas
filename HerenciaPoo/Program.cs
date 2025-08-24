@@ -12,6 +12,7 @@ while (true)
     Console.WriteLine("4.Salir");
     int opcion = int.Parse(Console.ReadLine());
 
+
     switch (opcion)
     {
         case 1:
